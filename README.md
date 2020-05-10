@@ -1,2 +1,2 @@
-# class24
-I created different classes for  angry birds game
+# staticSquare
+A static square made using Matter.js physics engine
